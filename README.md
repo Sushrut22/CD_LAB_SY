@@ -4,7 +4,7 @@
 ```python
 flex <filename>.l
 gcc lex.yy.c
-a
+./a
 ```
 
 ## YACC commands
